@@ -4,12 +4,12 @@
   },
   "inbound": {
     "protocol": "vmess",
-    "port": 66666,
+    "port": 443,
     "settings": {
       "clients": [
         {
-          "id": "your_uuid",
-          "alterId": 64
+          "id": "7a40df5e-4f97-479b-832b-e2aeb33ce07d",
+          "alterId": 665
         }
       ]
     },
