@@ -10,6 +10,10 @@
     "V2RAY_RAY_BUFFER_SIZE": {
        "description": "每个连接的缓存大小，单位MB",
        "value": "10"
+     },
+    "PORT": {
+       "description": "端口号",
+       "value": "66554"
      }
   },
   "website": "https://github.com/fbigun/v2ray-heroku",
